@@ -1,0 +1,14 @@
+body {
+  border: 10px solid #e4f5f9;
+
+  height: 1825px;
+  width: 1424px;
+  left: -721px;
+  top: -513px;
+  border-radius: 0px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
