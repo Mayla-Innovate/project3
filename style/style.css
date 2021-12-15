@@ -10,5 +10,47 @@ body {
 
 h1 {
   text-align: center;
-  color: red;
+  color: #145968;
+  font-family: "Libre Baskerville", serif;
+  font-family: Libre Baskerville;
+  font-style: normal;
+  line-height: 79px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  position: absolute;
+  width: 1134px;
+  height: 50px;
+  left: 168px;
+  top: 103px;
+}
+h2 {
+  text-align: center;
+  font-family: Sen;
+
+  font-style: normal;
+
+  line-height: 58px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  position: absolute;
+  width: 1086px;
+  height: 73px;
+  left: 177px;
+  top: 203px;
+}
+.img-fluid {
+  position: absolute;
+  width: 702px;
+  height: 567px;
+  left: 19px;
+  top: 418px;
+  border: 1px solid #fcddec;
+}
+button {
+  background: #fcddec;
+  height: 131px;
+  width: 299px;
+  left: 1057px;
+  top: 373px;
+  border-radius: 50px;
 }
