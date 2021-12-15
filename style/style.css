@@ -47,21 +47,8 @@ h2 {
   top: 418px;
   border: 1px solid #fcddec;
 }
-button {
+.btn-light {
   background: #fcddec;
-  height: 131px;
-  width: 299px;
-  left: 1057px;
-  top: 373px;
+  color: #297a8c;
   border-radius: 50px;
-  border-color: white;
-}
-hero {
-  height: 597px;
-  width: 873px;
-  left: 51px;
-  top: 350px;
-  border-radius: 10px;
-  background: #e4f5f9;
-  padding: 100px 100px;
 }
