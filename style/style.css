@@ -41,11 +41,11 @@ h2 {
 .img-thumbnail {
   position: absolute;
   display: block;
-  max-width: 702%;
+  max-width: 700;
   max-height: 567px;
   left: 19px;
   top: 418px;
-  border: 1px solid #fcddec;
+  border-radius: 10px;
 }
 .btn-light {
   background: #fcddec;
