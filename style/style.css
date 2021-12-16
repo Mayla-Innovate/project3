@@ -47,8 +47,10 @@ h2 {
   top: 418px;
   border-radius: 10px;
 }
-.btn-light {
+button {
   background: #fcddec;
   color: #297a8c;
-  border-radius: 50px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: whitesmoke;
 }
